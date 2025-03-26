@@ -6,6 +6,9 @@
 |Repo category | Repos |
 |:--|:--|
 |1. Project Repos||
-|2. Study Repos|[`S1_Abbreviations`](https://github.com/ArthurOLS/S1_Abbreviations.git) (public repo) <br> [`S2a_MockTowerCalls`](https://github.com/OLS-Embedded-Engineering-Team/S2a_MockTowerCalls.git)|
+|2. Study Repos|[`S1_Abbreviations`](https://github.com/ArthurOLS/S1_Abbreviations.git) (public repo) <br> [`S2a_MockTowerCalls`](https://github.com/OLS-Embedded-Engineering-Team/S2a_MockTowerCalls.git)  <br> [`S2b_MockTowerCalls2`](https://github.com/OLS-Embedded-Engineering-Team/S2b_MockTowerCalls2.git)|
 |3. Design Repos |[`D1_TractionElevator_Architecture`](https://github.com/OLS-Embedded-Engineering-Team/D1_TractionElevator_Architecture.git) |
 |4. Requirement Repos ||
+
+> 'P'=Project, 'S'=Study, 'D'=Design.
+
