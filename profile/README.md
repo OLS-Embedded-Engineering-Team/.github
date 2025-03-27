@@ -5,11 +5,11 @@
 
 |Repo category | Repos |
 |:--|:--|
-|1. Project Repos||
-|2. Study Repos|[`S1_Abbreviations`](https://github.com/ArthurOLS/S1_Abbreviations.git) (public repo) <br> [`S2a_MockTowerCalls`](https://github.com/OLS-Embedded-Engineering-Team/S2a_MockTowerCalls.git)  <br> [`S2b_MockTowerCalls2`](https://github.com/OLS-Embedded-Engineering-Team/S2b_MockTowerCalls2.git)|
-|3. Design Repos |[`D1_TractionElevator_Architecture`](https://github.com/OLS-Embedded-Engineering-Team/D1_TractionElevator_Architecture.git) |
-|4. Test System||
-|5. Requirement Repos ||
+|Requirement Repos | [`R1_Short-term(1yr)_and_Long-term(3yr)` 🛫]()|
+|Study Repos|[`S1_Abbreviations` 🛫](https://github.com/ArthurOLS/S1_Abbreviations.git) (public repo) <br> [`S2a_MockTowerCalls`](https://github.com/OLS-Embedded-Engineering-Team/S2a_MockTowerCalls.git)  <br> [`S2b_MockTowerCalls2`](https://github.com/OLS-Embedded-Engineering-Team/S2b_MockTowerCalls2.git)|
+|Design Repos |[`D1_TractionElevator_Architecture`](https://github.com/OLS-Embedded-Engineering-Team/D1_TractionElevator_Architecture.git)  <br> [`D2_Software_Architecture`]() <br> [`D3_Safety_Design`]()|
+|Project Repos||
+|Test/Evaluation System|[`T1_Test_System` 🛫]()|
 
 > 'P'=Project, 'S'=Study, 'D'=Design.
 
