@@ -14,6 +14,6 @@
 ## 💻 Environment Setting (2025-03-28)
 |Platform| Version|
 |:---|:---|
-|PIC32|MPLAB X IDE v**6.25**,<br> with compiler of **XC32 V4.60**|
+|PIC32|MPLAB X IDE v**6.25**<br>Compiler: **XC32 V4.60** <br>Pack: PIC32MZ-DA_DFP(**1.5.231**)|
 |AVR|Microchip Studio 7 (Version: **7.0.2594**),<br> Atmel Kits Version: **7.0.132**,<br> ATmega_DFP **1.7.374** (compiler)|
 
